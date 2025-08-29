@@ -49,8 +49,9 @@ CHANNEL_IDS = [
 
 # Define the products and the keywords that MUST ALL be present in a message.
 PRODUCTS_KEYWORDS = {
-    "smartwatch": ["44mm", "watch7"],
-    "s25": ["galaxy", "s25"]
+    "watch7": ["44mm", "watch7"],
+    "watch78": ["44mm", "watch8"],
+    "s25": ["galaxy", "s25", "256gb"]
 }
 
 
